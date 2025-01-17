@@ -1,0 +1,25 @@
+﻿<Window x:Class="FetchDataApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fetch Data Application" Height="350" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="UrlTextBox" Grid.Row="0" Margin="0,0,0,10" Height="30"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+            <Button x:Name="FetchButton" Content="Fetch Data" Width="100" Margin="0,0,10,0" Click="FetchButton_Click"/>
+            <Button x:Name="ClearButton" Content="Clear" Width="100" Margin="0,0,10,0" Click="ClearButton_Click"/>
+            <Button x:Name="CloseButton" Content="Close" Width="100" Click="CloseButton_Click"/>
+        </StackPanel>
+
+        <TextBox x:Name="ResultTextBox" Grid.Row="2" Margin="0,0,0,10" Height="200" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+
+        <TextBlock Grid.Row="3" Text="Logs will appear here for debugging purposes." Foreground="Gray" FontStyle="Italic" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
