@@ -1,0 +1,14 @@
+D:\PRN222-code\DNS\DNS\bin\Debug\net8.0\DNS.exe
+D:\PRN222-code\DNS\DNS\bin\Debug\net8.0\DNS.deps.json
+D:\PRN222-code\DNS\DNS\bin\Debug\net8.0\DNS.runtimeconfig.json
+D:\PRN222-code\DNS\DNS\bin\Debug\net8.0\DNS.dll
+D:\PRN222-code\DNS\DNS\bin\Debug\net8.0\DNS.pdb
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.AssemblyInfoInputs.cache
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.AssemblyInfo.cs
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.csproj.CoreCompileInputs.cache
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.dll
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\refint\DNS.dll
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.pdb
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\DNS.genruntimeconfig.cache
+D:\PRN222-code\DNS\DNS\obj\Debug\net8.0\ref\DNS.dll

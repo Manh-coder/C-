@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN222-code\\C-\\server-client\\test3\\test3\\test3.csproj": {}
+    "D:\\PRN222-code\\DNS\\DNS\\DNS.csproj": {}
   },
   "projects": {
-    "D:\\PRN222-code\\C-\\server-client\\test3\\test3\\test3.csproj": {
+    "D:\\PRN222-code\\DNS\\DNS\\DNS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN222-code\\C-\\server-client\\test3\\test3\\test3.csproj",
-        "projectName": "test3",
-        "projectPath": "D:\\PRN222-code\\C-\\server-client\\test3\\test3\\test3.csproj",
+        "projectUniqueName": "D:\\PRN222-code\\DNS\\DNS\\DNS.csproj",
+        "projectName": "DNS",
+        "projectPath": "D:\\PRN222-code\\DNS\\DNS\\DNS.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN222-code\\C-\\server-client\\test3\\test3\\obj\\",
+        "outputPath": "D:\\PRN222-code\\DNS\\DNS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
